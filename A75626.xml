@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The folly and wisdom of the ancients: in tvvo letters wonderfully preserved for almost 2000 years. Translated out of the Greek copy, and recommended to the judicious, to consider how far the case therein exprest, may concern our present times, either prophetically or parallel. Being two letters of Artaxerxes that great king, as they are recorded by Josephus, in his 11th. book, and 6th. chap.</title>
+            <title>Correspondence. English. Selections</title>
+            <author>Artaxerxes I, King of Persia, d. 425 or 4 B.C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75626</idno>
+            <idno type="STC">Wing A3798</idno>
+            <idno type="STC">Thomason E1087_5</idno>
+            <idno type="STC">ESTC R12787</idno>
+            <idno type="EEBO-CITATION">99859341</idno>
+            <idno type="PROQUEST">99859341</idno>
+            <idno type="VID">169375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169375)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1087[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The folly and wisdom of the ancients: in tvvo letters wonderfully preserved for almost 2000 years. Translated out of the Greek copy, and recommended to the judicious, to consider how far the case therein exprest, may concern our present times, either prophetically or parallel. Being two letters of Artaxerxes that great king, as they are recorded by Josephus, in his 11th. book, and 6th. chap.</title>
+                  <title>Correspondence. English. Selections</title>
+                  <author>Artaxerxes I, King of Persia, d. 425 or 4 B.C.</author>
+                  <author>Josephus, Flavius Antiquitates Judaicae Book 11, 6. English. Selections.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Smith, at the Sign of the Elephant and Castle, without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letters of Artaxerxes I as they appear in Josephus, Flavius. Antiquitates Judaicae.</note>
+                  <note>Annotation on Thomason copy: "Aprill 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169375:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>THE Folly and Wiſdom OF THE ANCIENTS: IN TVVO LETTERS Wonderfully Preſerved for almoſt 2000 Years. Tranſlated out of the Greek Copy, and Recommended to the Judicious, to Conſider how far the Caſe there<g ref="char:EOLhyphen"/>in Expreſt, may concern our Preſent Times, either Prophetically or Parallel.</p>
+            <p>BEING TWO LETTERS of ARTAXERXES that Great King, as they are Recorded by JOSEPHUS, in His 11<hi rend="sup">th</hi>. Book, and 6<hi rend="sup">th</hi>. Chap.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Smith,</hi> at the Sign of the <hi>
+                  <add>prill 11</add>Elephant</hi> and <hi>Caſtle,</hi> without <hi>Temple-Bar.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169375:2"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="1" facs="tcp:169375:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>THE Folly &amp; Wiſdome OF THE ANCIENTS:</head>
+            <div n="1" type="letter">
+               <head>The Firſt Letter.</head>
+               <epigraph>
+                  <q xml:lang="grc">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </q>
+                  <q xml:lang="lat">Rex Magnus his Principes &amp; Locorum Preſides Ordinati ſunt, Haec ſcribit. Cum multis imperaſſem Gentibus, &amp; omni dominaret Orbis-terrae, Volui non temeritate potentiae elevatus, &amp;c.</q>
+               </epigraph>
+               <head>The Great King Writeth theſe things, to the Princes and Govern<g ref="char:EOLhyphen"/>ors that are under him, throughout the Nations.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Fter that I became Lord over many Nations, and had Dominion over the whole World, not lifted up with Preſumption of my Authority; but carrying my ſelf alway with Equity and Mildneſs, I purpoſed to ſettle my Subjects continually in a Quiet Life; and making my Kingdom Peaceable, and Open for Paſſage, to the utmoſt Coaſts; to renew Peace, which is deſired of all men.</p>
+               <p>
+                  <pb n="2" facs="tcp:169375:3"/>
+                  <!-- PDF PAGE 36 -->
+Now, when I asked my Counſellors how this might be brought to paſs? A man that excelled in Wiſdom among us, and was approved for his conſtant good Will and ſtedfaſt Fidelity,<note n="†" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and had the honour of the ſecond Place in the Kingdome, Declared unto us, That in all Nations, throughout the World, there was ſcattered a certain Malicious People, that had Laws contrary to all Nations, and continually Deſpiſed the Commandments of Kings, ſo as the Uniting of our Kingdoms, honourably intended by us, cannot go for<g ref="char:EOLhyphen"/>ward.</p>
+               <p>Seeing then we underſtand, that this People alone, is continually in oppoſition unto all men; Differing in the ſtrange manner of their Laws, and evil affected to our State, working all the miſchief they can, that our Kingdom may not be firmly eſtabliſhed: Therefore have we Commanded, That all they that are ſignified in writing unto you, ſhall All, with their Wives and Children, be utterly deſtroyed, by the Sword of their Enemies, without all Mercy and Pity, upon the <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>Day of the Moneth <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of this preſent Year; That they who of old, and new alſo, are malitious, may in one Day, with Violence, go into the Grave, and ſo ever hereafter, cauſe our Affairs to be well Setled, and with<g ref="char:EOLhyphen"/>out trouble.</p>
+               <epigraph>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </epigraph>
+            </div>
+            <div type="prayer">
+               <pb n="3" facs="tcp:169375:3"/>
+               <!-- PDF PAGE 36 -->
+               <head>Here followeth part of the Prayer unto God, in behalf of the People Deſigned for Slaughter.</head>
+               <epigraph>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </epigraph>
+               <p>O <hi>Lord, Lord, the King Almighty, for the whole World is in thy Power, and if thou haſt appointed to ſave thy People, there is no man that can gainſay thee; For thou haſt made Heaven and Earth, and all the Wondrous things under the Heaven. Thou art Lord of all things, and there is no man can reſiſt thee which art the Lord. Thou knoweſt all things.</hi> And thou knoweſt, that it was neither in Contempt, nor Pride (referring to the firſt Occaſion of the Cruel Decree) for I could have been content, with good will, for the Salvation of the People, to have kiſſed the Soles of his Feet.<note n="†" place="margin">Him who ſtir<g ref="char:EOLhyphen"/>red up the K. to wrath</note> But I did this, that I might not prefer the Glory of man, above the Glo<g ref="char:EOLhyphen"/>ry of God, neither will I Worſhip any but Thee, O God, neither will I do it in pride. <hi>And now, O Lord God and King, Spare thy People, for their Eyes are upon us, to bring us to naught, yea they deſire to deſtroy the In<g ref="char:EOLhyphen"/>heritance that hath been Thine from the beginning. Deſpiſe not the Portion Thou haſt Delivered for Thine own Self. Hear my Prayer, and be Merciful unto Thine Inheritance. Turn our Sorrow into Joy, that we may Live, O Lord, and Praiſe Thy Name, and Deſtroy not the Mouthes of them that Praiſe Thee, O Lord.</hi>
+               </p>
+            </div>
+            <div n="2" type="letter">
+               <pb n="4" facs="tcp:169375:4"/>
+               <!-- PDF PAGE 37 -->
+               <head>Soone after, a Second Letter, in Oppoſition to the For<g ref="char:EOLhyphen"/>mer Haſty Decree, thus followeth.</head>
+               <epigraph>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>—&amp;c.</q>
+               </epigraph>
+               <opener>
+                  <signed>The Great King</signed>
+                  <salute>unto the Princes and Governors (over his Dominions) unto all our faithful Subjects, Greeting.</salute>
+               </opener>
+               <p>MAny, the more often they are honoured with the great Bounty of their Gracious Princes, the more Proud they are waxen, and endeavour to hurt, not our Subjects onely, but, not being able to bear a<g ref="char:EOLhyphen"/>bundance, do take in hand, to practiſe alſo againſt thoſe that do them good: And take not onely thankful<g ref="char:EOLhyphen"/>neſs away from among men, but alſo lifted up with the glorious words of lewd perſons, that were never good, they think to eſcape the <hi>Juſtice</hi> of <hi>God,</hi> that ſeeth all things, and hateth evil. Oftentimes alſo, fair ſpeech<g ref="char:EOLhyphen"/>es of thoſe that are put in truſt to manage their friends Affairs, have cauſed many that are in Authority, to be<note n="†" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> partakers of innocent blood, and hath enwrapped them in remedileſs Calamities; beguiling with the falſhood and deceit of their lewd Diſpoſition, the inno<g ref="char:EOLhyphen"/>nency and goodneſs of Princes. Now ye may ſee this as we have Declared, not ſo much by ancient Hiſtories, as ye may if ye ſearch what hath been wickedly done of late, through the Peſtilent behaviour of them that are unworthily placed in Authority.</p>
+               <p>And we muſt take care for the time to come, that our Kingdom may be quiet and peaceable for all men,
+<pb n="5" facs="tcp:169375:4"/>
+                  <!-- PDF PAGE 37 -->both by changing our purpoſes, and always judging things that are evident, with more equal proceeding; for a man—being indeed a Stranger from our—Blood, and far diſtant from our Goodneſs, and as a Stranger re<g ref="char:EOLhyphen"/>ceived of us, had ſo far forth obtained the Favour that we ſhew toward every Nation,<note n="†" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>—</note> as that he was called our Father, and was continually Honoured of all men, as the next perſon unto the King. But he not bearing his great Dignity, went about to deprive us of our Kingdom and Life; having by manyfold and cunning Deceits, ſought of us the Deſtruction, as well of—<hi>thoſe</hi> who ſaved our Life, and continually procured our good—with the whole Nation of them: For by this meanes he thought, finding us deſtitute of Friends, to have tranſlated our Kingdom to—<hi>others.</hi>
+               </p>
+               <p>But we find, that the People whom this wicked Wretch hath delivered to utter Deſtruction,<note n="†" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> are <hi>no evil doers,</hi> but live by moſt <hi>Juſt Laws;</hi> And that they be <hi>Children of the Moſt High, and Moſt Mighty Living God,</hi> who hath ordered the Kingdom both to us and our Progenitors, in the moſt excellent manner.</p>
+               <p>Wherefore ye ſhall do well, not to put in Execution the Letters, ſent unto you by that—wicked man.—For he that was the Worker of theſe things, is Hanged up at the Gates, <hi>&amp;c.</hi>—<hi>God who Ruleth all things, ſpeedily rendring Vengeance unto him according to his Deſerts.</hi> Therefore ye ſhall Publiſh the Copy of this Letter, in all Places, that thoſe—<hi>Innocent People</hi> may<note n="†" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>—</note> freely live after their own Laws: And ye ſhall ayd them againſt all that riſe againſt them, and ſet upon them. For Al<g ref="char:EOLhyphen"/>mighty God hath turned to Joy unto them, the Day wherein the choſen People ſhould have Periſhed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
